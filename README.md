@@ -14,5 +14,5 @@ This project uses Java and showcased the communication between the client and th
 # Running the project
 The usage of git is recommended.
 
-git clone ...
+git clone https://github.com/Abhishek-Biswas-Deep/Communication
 
