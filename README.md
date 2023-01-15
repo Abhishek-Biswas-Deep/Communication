@@ -1,7 +1,7 @@
+# Associated with Dalhousie University.
+
 # Communication
 An algorithm in Java to broadcast many users to communicate amongst themselves.
-
-Associated with Dalhousie University
 
 # Purpose
 This algorithm uses Server Socket to show the broadcasting between the users.
