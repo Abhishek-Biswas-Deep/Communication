@@ -1,7 +1,7 @@
 # Associated with Dalhousie University.
 
 # Communication
-* CSCI3171
+## CSCI3171
 An algorithm in Java to broadcast many users to communicate amongst themselves.
 
 # Purpose
